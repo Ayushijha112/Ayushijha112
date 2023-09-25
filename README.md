@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushijha112
-- 👀 I’m interested in python progamming at davnce level and web dev.
-- 🌱 I’m currently learning front end developing and python
+- 👀 I’m interested in python progamming at adavnce level and data sceince learnings.
+- 🌱 I’m currently learning artificial intelligence algorithms and deep diving into python 
 - 💞️ I’m looking to a mentor to help on my project. 
 - 📫 How to reach me my instagram account @a.ayushii1112
 or my linkedin profile-  https://www.linkedin.com/in/ayushi-jha-1070ba20b
